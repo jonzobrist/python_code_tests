@@ -1,4 +1,4 @@
-#!/bin/env python
+#!/usr/bin/env python
 
 for i in xrange(100):
     output = "{} ".format(i)
